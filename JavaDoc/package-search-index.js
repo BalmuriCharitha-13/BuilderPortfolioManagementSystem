@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.builderportfolio"},{"l":"com.builderportfolio.dao"},{"l":"com.builderportfolio.exception"},{"l":"com.builderportfolio.model"},{"l":"com.builderportfolio.service"},{"l":"com.builderportfolio.view"},{"l":"com.builderportfolio.view.util"}];updateSearchResults();
